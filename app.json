@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "projeto02mobile",
-    "slug": "projeto02mobile",
+    "name": "tela_de_login",
+    "slug": "tela_de_login",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
